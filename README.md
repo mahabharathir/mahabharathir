@@ -6,9 +6,9 @@
 <br/>
 **8+ years @ Zoho Corporation (ManageEngine Division)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mahabharathi.github.io-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://mahabharathi.github.io/me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahabharathi--ravichandran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabharathi-ravichandran)
-[![LeetCode](https://img.shields.io/badge/LeetCode-QZVx2lKXnu-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/QZVx2lKXnu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahabharathi.github.io/me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabharathi-ravichandran)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/QZVx2lKXnu/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahabharathi&style=flat-square&color=blue)
 
@@ -54,18 +54,32 @@
 
 ---
 
+
 ### 📊 GitHub & LeetCode Stats
 
 <div align="center">
 
 <a href="https://leetcode.com/u/QZVx2lKXnu/">
-  <img src="https://leetcard.jacoblin.cool/QZVx2lKXnu?theme=nord&font=Azeret%20Mono&ext=heatmap" alt="Maha's LeetCode Stats" height="193"/>
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahabharathir&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=%20" height="150" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabharathir&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"/>
+
+<a href="https://leetcode.com/u/QZVx2lKXnu/">
+  <img
+    src="https://leetcard.jacoblin.cool/QZVx2lKXnu?theme=dark&font=Baloo_2&ext=heatmap"
+    width="70%"
+    alt="LeetCode Statistics and Activity Heatmap"
+  />
+</a>
+
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahabharathir&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabharathir&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="170" alt="Most Used Programming Languages"/>
 
 </div>
 
