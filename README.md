@@ -6,7 +6,7 @@
 <br/>
 **8+ years @ Zoho Corporation (ManageEngine Division)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahabharathi.github.io/me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahabharathi-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabharathi-ravichandran)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/QZVx2lKXnu/)
 
