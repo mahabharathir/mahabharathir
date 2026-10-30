@@ -92,14 +92,6 @@
 
 ---
 
-### 🚀 Personal Projects
-
-| Project | Description | Links |
-|---|---|---|
-| **Personal Portfolio** | My personal portfolio website | [Live](https://mahabharathi.github.io/me/) · [Repo](https://github.com/mahabharathi/my-portfolio-app) |
-
----
-
 <div align="center">
 
 📫 **mahabharathi.r@gmail.com** · Chennai, India · Always happy to talk tech, ideas, or collaboration opportunities!
