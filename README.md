@@ -55,7 +55,7 @@
 ---
 
 
-### 📊 GitHub & LeetCode Stats
+### 📊 LeetCode Stats
 
 <div align="center">
 
@@ -73,13 +73,6 @@
     alt="LeetCode Statistics and Activity Heatmap"
   />
 </a>
-
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahabharathir&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabharathir&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="170" alt="Most Used Programming Languages"/>
 
 </div>
 
