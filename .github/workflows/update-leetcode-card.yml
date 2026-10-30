@@ -1,10 +1,9 @@
-
 name: Update LeetCode Card
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 2 * * 1"
+    - cron: "17 2 * * 1" # Every Monday at 02:17 UTC
 
 permissions:
   contents: write
@@ -12,7 +11,6 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out repository
         uses: actions/checkout@v5
